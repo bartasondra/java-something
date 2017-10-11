@@ -1,6 +1,7 @@
 <?php
 public function hi(){
 	//toDo
+	echo "something";
 }
 
 
