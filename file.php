@@ -6,6 +6,8 @@ public function hi(){
 
 public function helloWorld(){
 	//toDo
+	echo"helloworld";
+
 }
 
 
